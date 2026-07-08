@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Lambda build artifacts
+lambda/*.zip
+lambda/layer/python
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
