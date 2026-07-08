@@ -25,3 +25,13 @@
   flex-wrap: wrap;
   gap: 24px;
 }
+
+.predict-3d {
+  margin-top: 24px;
+}
+
+.hint {
+  color: #666;
+  font-size: 0.9em;
+  max-width: 500px;
+}
